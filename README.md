@@ -1,3 +1,4 @@
+![image](https://github.com/Hexworksofficial/hexworks-TOOLKIT/blob/c143f67e1d8c44ac59da68f427ff523d36c26ce0/icon.png)
 # hexworks-TOOLKIT
 Hexworks Toolkit – All-in-One 3D Model, Image, Video, Audio &amp; Texture Editor with AI Assistant (Beta)
 # Hexworks Toolkit 🎨🛠️
