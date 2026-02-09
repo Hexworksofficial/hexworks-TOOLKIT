@@ -1,7 +1,7 @@
 ![image](https://github.com/Hexworksofficial/hexworks-TOOLKIT/blob/c143f67e1d8c44ac59da68f427ff523d36c26ce0/icon.png)
 # hexworks-TOOLKIT
 Hexworks Toolkit – All-in-One 3D Model, Image, Video, Audio &amp; Texture Editor with AI Assistant (Beta)
-# Hexworks Toolkit 🎨🛠️
+# Hexworks Toolkit
 
 **Version:** 1.0 (Beta)  
 **Developer:** Hexworks (Egypt)
@@ -14,13 +14,13 @@ Hexworks Toolkit is an **all-in-one multimedia toolkit** designed to make workin
 
 ## Features
 
-### 3D Model Tools 🏗️
+### 3D Model Tools
 - Load and view `.obj`, `.fbx`, `.glb`, `.stl`, `.ply` models.
 - Apply random Hexworks colors or your own materials.
 - Convert models between formats using Blender or Python-based conversion.
 - Preview model statistics: vertices, triangles, and materials.
 
-### Image Tools 🖼️
+### Image Tools
 - Convert images to multiple formats (`png`, `jpg`, `bmp`, `tga`, `webp`, `ico`, and DDS variants).
 - DDS compression support: BC1, BC3, BC5, BC6H, BC7 (linear & sRGB).
 - Quick and simple image conversion workflow.
@@ -30,22 +30,22 @@ Hexworks Toolkit is an **all-in-one multimedia toolkit** designed to make workin
 - Convert videos between popular formats: `mp4`, `avi`, `mkv`, `wmv`, `mov`, `flv`.
 - Loop and preview video inside the GUI.
 
-### Audio Tools 🎵
+### Audio Tools
 - Play and convert audio files (`mp3`, `wav`, `ogg`, `flac`, `aac`).
 - Built-in MP3 player with timeline slider, play, and stop functionality.
 
-### Texture Editor 🎨
+### Texture Editor
 - Paint directly on textures with adjustable brush size and color.
 - Apply filters: Flip, Rotate, Invert, Blur, Sharpen.
 - Undo/Redo functionality for non-destructive editing.
 - Fullscreen texture preview.
 
-### AI Assistant 🤖
+### AI Assistant
 - Ask questions and get realistic, helpful replies.
 - AI provides guidance on using images, videos, models, backgrounds, and textures.
 - Interactive typing simulation for a more “real” experience.
 
-### Background & Theme 🌄
+### Background & Theme
 - Set custom background images in the GUI.
 - Light / Dark mode toggle for comfortable usage.
 
