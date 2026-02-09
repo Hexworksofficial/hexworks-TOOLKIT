@@ -1,4 +1,4 @@
-![image](https://github.com/Hexworksofficial/hexworks-TOOLKIT/blob/c143f67e1d8c44ac59da68f427ff523d36c26ce0/icon.png)
+3u![image](https://github.com/Hexworksofficial/hexworks-TOOLKIT/blob/c143f67e1d8c44ac59da68f427ff523d36c26ce0/icon.png)
 # hexworks-TOOLKIT
 Hexworks Toolkit – All-in-One 3D Model, Image, Video, Audio &amp; Texture Editor with AI Assistant (Beta)
 # Hexworks Toolkit
@@ -25,8 +25,8 @@ Hexworks Toolkit is an **all-in-one multimedia toolkit** designed to make workin
 - DDS compression support: BC1, BC3, BC5, BC6H, BC7 (linear & sRGB).
 - Quick and simple image conversion workflow.
 
-### Video Tools 🎬
-- Play and preview videos directly inside the toolkit.
+### Video Tools 
+
 - Convert videos between popular formats: `mp4`, `avi`, `mkv`, `wmv`, `mov`, `flv`.
 - Loop and preview video inside the GUI.
 
@@ -49,11 +49,7 @@ Hexworks Toolkit is an **all-in-one multimedia toolkit** designed to make workin
 - Set custom background images in the GUI.
 - Light / Dark mode toggle for comfortable usage.
 
-### About & Legal
-- About developer section with video introduction.
-- Full copyright and legal notice to protect your work.
-
-## Installation / Usage
+## Installation
 Run via Python (requires Python 3.10+): and this one is porvided in my wos tools tho 
 launcher.bat to run and install everything the tool needs  
 
